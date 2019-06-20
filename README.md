@@ -1,1 +1,1 @@
-# my_first_rails-_app
+# my_first_rails_app
